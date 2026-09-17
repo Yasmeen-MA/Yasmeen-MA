@@ -1,6 +1,7 @@
 <h1 align="center"> Peace be upon you | السلام عليكم ورحمة الله وبركاته</h2>
 <h2 align="center"> Hello 👋, I'm Yasmeen</h2>
-<h3 align="center">Delighted to be here! Welcome to my tech journey</h3>
+<h3 align="center">Delighted to be here! Welcome to my tech journey💮💻📖</h3>
+
 
 🎓 **Software Engineering / CIS Student**  
 A dedicated Junior Developer passionate about building robust applications and constantly upgrading my technical skills.
