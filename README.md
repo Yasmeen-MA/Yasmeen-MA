@@ -1,4 +1,5 @@
-## # Hi 👋, I'm Yasmeen
+## السلام عليكم ورحمة الله وبركاته
+## Hello 👋, I'm Yasmeen
 
 🎓 **Software Engineering / CIS Student**  
 A dedicated Junior Developer passionate about building robust applications and constantly upgrading my technical skills.
