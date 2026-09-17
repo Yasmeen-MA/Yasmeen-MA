@@ -1,4 +1,4 @@
-<h1 align="left"> Peace be upon you| <span align="right">>السلام عليكم ورحمة الله وبركاته</span</h2>
+<h1 align="left"> Peace be upon you <span align="right">السلام عليكم ورحمة الله وبركاته</span</h2>
 <h2 align="center"> Hello 👋, I'm Yasmeen</h2>
 <p>Delighted to be here! Welcome to my tech journey</p>
 
