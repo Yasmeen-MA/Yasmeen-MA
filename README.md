@@ -1,10 +1,10 @@
-<h2 align="center"> Peace be upon you| السلام عليكم ورحمة الله وبركاته</h2>
+<h1 align="left"> Peace be upon you| <span align="right">>السلام عليكم ورحمة الله وبركاته</span</h2>
 <h2 align="center"> Hello 👋, I'm Yasmeen</h2>
+<p>Delighted to be here! Welcome to my tech journey</p>
 
 🎓 **Software Engineering / CIS Student**  
 A dedicated Junior Developer passionate about building robust applications and constantly upgrading my technical skills.
 
-Delighted to be here! Welcome to my tech journey
 ---
 
 ### 🧰 Tech Stack & Skills
