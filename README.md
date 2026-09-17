@@ -1,5 +1,5 @@
-## Peace be upon you| السلام عليكم ورحمة الله وبركاته 
-## Hello 👋, I'm Yasmeen
+<h2 align="center"> Peace be upon you| السلام عليكم ورحمة الله وبركاته</h2>
+<h2 align="center"> Hello 👋, I'm Yasmeen</h2>
 
 🎓 **Software Engineering / CIS Student**  
 A dedicated Junior Developer passionate about building robust applications and constantly upgrading my technical skills.
