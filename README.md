@@ -1,4 +1,4 @@
-## السلام عليكم ورحمة الله وبركاته
+## السلام عليكم ورحمة الله وبركاته| Peace be upon you
 ## Hello 👋, I'm Yasmeen
 
 🎓 **Software Engineering / CIS Student**  
